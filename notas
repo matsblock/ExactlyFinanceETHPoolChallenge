@@ -1,0 +1,31 @@
+        // console.log("Resumen de depositos");
+        // console.log("BalanceOf", A, "is ", A_Initial_Balance);
+        // console.log("BalanceOf", B, "is ", B_Initial_Balance);
+
+         //       const claimRewards2 = await ETHPool.claimRewards({from: B});
+
+ //       console.log("claimRewards1", A, "is ", claimRewards1.toNumber());
+
+//  contractInstance.yourFunction(param1, param2,...).then(function(res){
+//     var variable_1 = res[0];
+//     var variable_2 = res[1];
+//     assert.equal(variable_1, expectedValue1, "value 1 incorrect");
+//     assert.equal(variable_2, expectedValue2, "value 2 incorrect");
+// })
+
+  //   const withdrawDeposit1 = await ETHPool.withdrawDeposit(100, {from: A});
+        // const withdrawDeposit2 = await ETHPool.withdrawDeposit(300, {from: B});
+
+   //       console.log("withdrawDeposit1", A, "is ", withdrawDeposit1);
+      
+
+ //       A_Total_Withdrawal = claimRewards1 + withdrawDeposit1;
+  //      B_Final_Balance = claimRewards2 + withdrawDeposit2;
+
+        // console.log("Resumen de retiros");
+        // console.log("BalanceOf", A, "is ", A_Final_Balance);
+        // console.log("BalanceOf", B, "is ", B_Final_Balance);
+
+ //        assert(withdrawDeposit1 === 100);
+ //       assert(A_Total_Withdrawal === 150);
+ //       assert(B_Initial_Balance.toNumber() - B_Final_Balance.toNumber() === 450);
